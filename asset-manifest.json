@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RateMyPartner/static/css/main.0a8859f4.css",
+    "main.js": "/RateMyPartner/static/js/main.e54d9a18.js",
+    "index.html": "/RateMyPartner/index.html",
+    "main.0a8859f4.css.map": "/RateMyPartner/static/css/main.0a8859f4.css.map",
+    "main.e54d9a18.js.map": "/RateMyPartner/static/js/main.e54d9a18.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a8859f4.css",
+    "static/js/main.e54d9a18.js"
+  ]
+}
